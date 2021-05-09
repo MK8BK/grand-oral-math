@@ -1,0 +1,13 @@
+1
+    -Tests sur les algorithmes: bulle, insertion, stupide
+    -essayer sur plusieurs longueurs de listes,
+    -pour chaque longueur de liste, faire la moyenne des echantillons
+    -effectuer une regression polynomiale:
+        -Point G moyenne des x et des y
+        -ax²+bx+c
+    -noter la derivee en tout point
+    -grapher cette derivee
+    -effectuer un regression sur le graphe de la derivée ax+b
+    
+changement de variable X=ln(x) et Y=ln(y)
+Approximation par changement de variable 
